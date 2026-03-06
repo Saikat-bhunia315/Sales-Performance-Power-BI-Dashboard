@@ -60,19 +60,14 @@ This page helps identify high-performing products and areas with lower profitabi
 - Dataset used in this project- SuperStoreOrders.csv
 - Dashboard preview images
 
-## Project Objective
-The objective of this project is to demonstrate the ability to:
-- Build interactive dashboard in Power BI
-- Analyze business performance using data
-- Present insights using data visualization
 
 ## Dashboard Previews
 
 ### 1. Executive Summary
-![Executive Summary](Dashboard Preview Page 1.png)
+![Executive Summary](Dashboard_Preview_Page1.png)
 
 ### 2. Regional Performance Analysis
-![Regional Performance Analysis](Dashboard Preview Page 2.png)
+![Regional Performance Analysis](Dashboard_Preview_Page2.png)
 
 ### 3. Product Analysis
-![Product Analysis](Dashboard Preview Page 3.png)
+![Product Analysis](Dashboard_Preview_Page3.png)
